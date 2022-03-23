@@ -11,13 +11,13 @@
 ## Interactivate Argument Pair Identification
 - Discrete Argument Representation Learning for Interactive Argument Pair Identification &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1911.01621.pdf)|code]
 - Leveraging Argumentation Knowledge Graph for Interactive Argument Pair Identification &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.findings-acl.203.pdf)|code]
-- ACE: A Context-Enhanced Model for Interactive Argument Pair Identification  &nbsp; &nbsp;[[paper]|[code]]
+- ACE: A Context-Enhanced Model for Interactive Argument Pair Identification  &nbsp; &nbsp;[[paper]|code]
 - Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.acl-long.496.pdf)|[code](https://github.com/TianyuTerry/MLMC)]
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.emnlp-main.319.pdf)|[code](https://github.com/HLT-HITSZ/MGF)]
 ## Argument Assessment
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
-- Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.10250.pdf)|[[code](https://github.com/GabriellaSky/claimrev)]]
+- Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.10250.pdf)|[code](https://github.com/GabriellaSky/claimrev)]
 ## Argument Generation 
 - Aspect-Controlled Neural Argument Generation &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2005.00084.pdf)|[code](https://github.com/UKPLab/controlled-argument-generation)]
 - Belief-based Generation of Argumentative Claims &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.09765.pdf)|[code](http://www.github.com/webis-de/eacl21-belief-based-claim-generation)]
