@@ -38,8 +38,7 @@
  | Argument Mining        | Persyasive Essays(PE)    |    |  402 essays and 1833 paragraphs  |
  | Argument Mining        | Consumer Debt Collection Practices   |    | 731 paragraphs  |
  | Argument Mining        | Feedback Prize - Evaluating Student Writing   |  https://www.kaggle.com/competitions/feedback-prize-2021  | approximately 10k documents  |
- | Argument Mining        | AbstRCT   |  https://gitlab.com/tomaye/abstrct/  |  4198 argument components and
-2601 argument relations on different diseases (i.e., neoplasm, glaucoma, hepatitis, diabetes, hypertension)  |
+ | Argument Mining        | AbstRCT   |  https://gitlab.com/tomaye/abstrct/  |  4198 argument components and 2601 argument relations on different diseases|
  | Intractive Argument Pair        | CMV-Attackability   |  ChangeMyView  | threads from 2014.1 to 2017.9 27772 threads and 3448917 posts|
  | Intractive Argument Pair        | IBM Debater   |  IBM  | 3684 long debeate texts 460 motions|
  | Intractive Argument Pair        | Review-Rebuttal(RR)   |  ICLR-Open Review  | 4764 RR passagesa 40831 arguments|
