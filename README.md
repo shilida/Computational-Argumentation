@@ -27,14 +27,14 @@
 - Leveraging Argumentation Knowledge Graph for Interactive Argument Pair Identification &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.findings-acl.203.pdf)|code]
 - ACE: A Context-Enhanced Model for Interactive Argument Pair Identification  &nbsp; &nbsp;[paper|code]
 ### Argument Pair Extraction
-[paperwithcode](https://paperswithcode.com/sota/argument-pair-extraction-ape-on-rr)
+- [paperswithcode](https://paperswithcode.com/sota/argument-pair-extraction-ape-on-rr)
 - Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.acl-long.496.pdf)|[code](https://github.com/TianyuTerry/MLMC)]
 - Argument mining Extracting arguments from online dialogue &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|code]
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.emnlp-main.319.pdf)|[code](https://github.com/HLT-HITSZ/MGF)]
 - AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)]
 - APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning &nbsp; &nbsp;[[paper](https://aclanthology.org/2020.emnlp-main.569.pdf)|[code](https://github.com/LiyingCheng95/ArgumentPairExtraction)]
 - Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[paper|code]
-- Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2202.12109)|[code](https://github. com/mayubo2333/PAIE.)]
+- Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2202.12109)|[code](https://github.com/mayubo2333/PAIE)]
 ## Dataset 
  | Task        |  Dataset    |  Data Source  |  Scale  |
  | --------   | -----:   | :----: |  :----: |
