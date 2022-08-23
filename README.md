@@ -11,6 +11,7 @@
 - Multi-Task Attentive Residual Networks for Argument Mining &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2102.12227.pdf)|[code](https://github.com/AGalassi/StructurePrediction18)]
 - Argument Component Classification for Classroom Discussions &nbsp; &nbsp; [[paper](https://arxiv.org/pdf/1909.03022)|code]
 - Transformer-based argument mining for healthcare applications &nbsp; &nbsp; [[paper](https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA200334)|[code](https://gitlab.com/tomaye/)]
+- Five Years of Argument Mining: a Data-driven Analysis &nbsp; &nbsp;[[paper](https://www.ijcai.org/proceedings/2018/0766.pdf)|code]
 ### Argument Assessment
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
