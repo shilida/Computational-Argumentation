@@ -36,7 +36,6 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)]
 - APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning &nbsp; &nbsp;[[paper](https://aclanthology.org/2020.emnlp-main.569.pdf)|[code](https://github.com/LiyingCheng95/ArgumentPairExtraction)]
 - Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[paper|code]
-- Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2202.12109)|[code](https://github.com/mayubo2333/PAIE)]
 ## Dataset 
  | Task        |  Dataset    |  Data Source  |  Scale  |
  | --------   | -----:   | :----: |  :----: |
