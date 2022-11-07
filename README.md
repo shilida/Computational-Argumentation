@@ -37,7 +37,7 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.emnlp-main.319.pdf)|[code](https://github.com/HLT-HITSZ/MGF)]
 - AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)]
 - APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning &nbsp; &nbsp;[[paper](https://aclanthology.org/2020.emnlp-main.569.pdf)|[code](https://github.com/LiyingCheng95/ArgumentPairExtraction)]
-- Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|code]
+- Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/HLT-HITSZ/MRC_APE)]
 ## Dataset 
  | Task        |  Dataset    |  Data Source  |  Scale  |
  | --------   | -----:   | :----: |  :----: |
