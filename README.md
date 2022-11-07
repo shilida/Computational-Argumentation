@@ -13,6 +13,8 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - Argument Component Classification for Classroom Discussions &nbsp; &nbsp; [[paper](https://arxiv.org/pdf/1909.03022)|code]
 - Transformer-based argument mining for healthcare applications &nbsp; &nbsp; [[paper](https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA200334)|[code](https://gitlab.com/tomaye/)]
 - Five Years of Argument Mining: a Data-driven Analysis &nbsp; &nbsp;[[paper](https://www.ijcai.org/proceedings/2018/0766.pdf)|code]
+- A Neural Transition-based Model for Argumentation Mining  &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.acl-long.497.pdf)|code]
+- End-to-end Argument Mining with Cross-corpora Multi-task Learning &nbsp; &nbsp;[[paper]|code]
 ### Argument Assessment
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
