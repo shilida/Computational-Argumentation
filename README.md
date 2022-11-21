@@ -33,12 +33,13 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - ACE: A Context-Enhanced Model for Interactive Argument Pair Identification  &nbsp; &nbsp;[paper|code]
 ### Argument Pair Extraction
 - [paperswithcode](https://paperswithcode.com/sota/argument-pair-extraction-ape-on-rr)
-- Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.acl-long.496.pdf)|[code](https://github.com/TianyuTerry/MLMC)]
-- Argument mining Extracting arguments from online dialogue &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|code]
+- Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/TianyuTerry/MLMC)]
+- Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|[code](https://github.com/HLT-HITSZ/MRC_APE)]
+# - Argument mining Extracting arguments from online dialogue &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|code]
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.emnlp-main.319.pdf)|[code](https://github.com/HLT-HITSZ/MGF)]
-- AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)]
+# - AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)]
 - APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning &nbsp; &nbsp;[[paper](https://aclanthology.org/2020.emnlp-main.569.pdf)|[code](https://github.com/LiyingCheng95/ArgumentPairExtraction)]
-- Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/HLT-HITSZ/MRC_APE)]
+# - Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/HLT-HITSZ/MRC_APE)]
 ## Dataset 
  | Task        |  Dataset    |  Data Source  |  Scale  |
  | --------   | -----:   | :----: |  :----: |
