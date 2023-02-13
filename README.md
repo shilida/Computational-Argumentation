@@ -16,7 +16,7 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - Five Years of Argument Mining: a Data-driven Analysis &nbsp; &nbsp;[[paper](https://www.ijcai.org/proceedings/2018/0766.pdf)|code]
 - A Neural Transition-based Model for Argumentation Mining  &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.acl-long.497.pdf)|code]
 - End-to-end Argument Mining with Cross-corpora Multi-task Learning &nbsp; &nbsp;[[paper]|code]
-- A Generative Model for End-to-End Argument Mining with Reconstructed Positional Encoding and Constrained Pointer Mechanism &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.emnlp-main.713.pdf)|[code}(https://github.com/HITSZ-HLT/GMAM)]
+- A Generative Model for End-to-End Argument Mining with Reconstructed Positional Encoding and Constrained Pointer Mechanism &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.emnlp-main.713.pdf)|[code](https://github.com/HITSZ-HLT/GMAM)]
 ### Argument Assessment
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
