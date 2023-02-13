@@ -33,6 +33,7 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/
 - Discrete Argument Representation Learning for Interactive Argument Pair Identification &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1911.01621.pdf)|code]
 - Leveraging Argumentation Knowledge Graph for Interactive Argument Pair Identification &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.findings-acl.203.pdf)|code]
 - ACE: A Context-Enhanced Model for Interactive Argument Pair Identification  &nbsp; &nbsp;[paper|code]
+- A Simple Contrastive Learning Framework for Interactive Argument Pair Identification via Argument-Context Extraction &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.emnlp-main.681.pdf)|[code](https://github.com/shilida/CL_Interactive_Argument_Pair_Identification)]
 ### Argument Pair Extraction
 - [paperswithcode](https://paperswithcode.com/sota/argument-pair-extraction-ape-on-rr)
 - Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/TianyuTerry/MLMC)]
