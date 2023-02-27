@@ -1,6 +1,7 @@
 ![Computational Argumentation](https://github.com/shilida/Computational-Argumentation/blob/master/logo.jpg "Computational Argumentation")
 # Awesome Computational Argumentation
-An Autonomous Debating System &nbsp; &nbsp;[[paper](https://www.nature.com/articles/s41586-021-03215-w)|[code]
+- An Autonomous Debating System &nbsp; &nbsp;[[paper](https://www.nature.com/articles/s41586-021-03215-w)|code]
+- Scientia Potentia Est—On the Role of Knowledge in Computational Argumentation  &nbsp; &nbsp;[paper|code]]
 ![Project-debater](https://github.com/shilida/Computational-Argumentation/blob/master/background-bottom-feature.jpg "Project-debater")
 ## Monological Argumentation
 ### Argument Mining
@@ -27,8 +28,12 @@ An Autonomous Debating System &nbsp; &nbsp;[[paper](https://www.nature.com/artic
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
 - Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.10250.pdf)|[code](https://github.com/GabriellaSky/claimrev)]
+- Assessing the Sufficiency of Arguments through Conclusion Generation  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2110.13495.pdf)|code]
+- Claim Optimization in Computational Argumentation  &nbsp; &nbsp;[[paper]([https://arxiv.org/pdf/2101.10250.pdf](https://arxiv.org/pdf/2212.08913.pdf))|[code](https://github.com/GabriellaSky/claim_optimization)]
 ### Argument Generation 
 - Aspect-Controlled Neural Argument Generation &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2005.00084.pdf)|[code](https://github.com/UKPLab/controlled-argument-generation)]
+- From arguments to key points: Towards automatic argument summarization &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2005.01619.pdf)|code]
+- Quantitative argument summarization and beyond: Cross-domain key point analysis &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.05369.pdf)|code]
 - Belief-based Generation of Argumentative Claims &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.09765.pdf)|[code](http://www.github.com/webis-de/eacl21-belief-based-claim-generation)]
 - AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.emnlp-main.343.pdf)|[code](https://github.com/HITSZ-HLT/AEG)]
 ### Argument Reasoning
