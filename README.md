@@ -1,6 +1,6 @@
 ![Computational Argumentation](https://github.com/shilida/Computational-Argumentation/blob/master/logo.jpg "Computational Argumentation")
 # Awesome Computational Argumentation
-An Autonomous Debating System &nbsp; &nbsp;[[paper](https://eorder.sheridan.com/3_0/app/orders/11030/files/assets/common/downloads/Slonim.pdf)|[code]
+An Autonomous Debating System &nbsp; &nbsp;[[paper](https://www.nature.com/articles/s41586-021-03215-w)|[code]
 ![Project-debater](https://github.com/shilida/Computational-Argumentation/blob/master/background-bottom-feature.jpg "Project-debater")
 ## Monological Argumentation
 ### Argument Mining
