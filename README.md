@@ -37,7 +37,7 @@
 - Belief-based Generation of Argumentative Claims &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.09765.pdf)|[code](http://www.github.com/webis-de/eacl21-belief-based-claim-generation)]
 - AEG: Argumentative Essay Generation via A Dual-Decoder Model with Content Planning &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.emnlp-main.343.pdf)|[code](https://github.com/HITSZ-HLT/AEG)]
 ### Argument Reasoning
-- A general semi-structured formalism for computational argumentation Definition,properties,and examples of application &nbsp; &nbsp;[paper)|code]
+- A general semi-structured formalism for computational argumentation Definition,properties,and examples of application &nbsp; &nbsp;[paper|code]
 - Argumentative Evidences Classification and Argument Scheme Detection Using Tree Kernels  &nbsp; &nbsp;[[paper](https://aclanthology.org/W19-4511.pdf)|code]
 ## Dialogical Argumentation
 ### Interactivate Argument Pair Identification
