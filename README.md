@@ -7,6 +7,7 @@
 ### Argument Mining
 - Argument Mining: A Survey &nbsp; &nbsp;[[paper](http://www.johnlawrence.net/res/pubs/lawrence2019argmin.pdf)|code]
 - Neural End-to-End Learning for Computational Argumentation Mining &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|[code](https://github.com/UKPLab/acl2017-neural_end2end_AM)]
+- End-to-End Argumentation Mining in Student Essays &nbsp; &nbsp;[[paper](https://aclanthology.org/N16-1164.pdf)|code]
 - Argument Mining Driven Analysis of Peer-Reviews &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2012.07743)|[code](https://github.com/fromm-m/aaai2021-am-peer-reviews)]
 - Argument Mining for Scholarly Document Processing Taking Stock and Looking Ahead &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.sdp-1.7.pdf)|[code](https://github.com/fromm-m/aaai2021-am-peer-reviews)]
 - End-to-End Argument Mining as Biaffine Dependency Parsing &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.eacl-main.55.pdf)|code]
