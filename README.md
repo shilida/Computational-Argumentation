@@ -25,6 +25,7 @@
 - Probing Structural Knowledge from Pre-trained Language Model for Argumentation Relation Classification &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.findings-emnlp.264.pdf)|[code](https://github.com/HITSZ-HLT/DPGNN)]
 - A Cascade Model for Argument Mining in Japanese Political Discussions: the QA Lab-PoliInfo-3 Case Study  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2207.01672.pdf)|[code](https://github.com/raruidol/Budget-AM)]
 - Biomedical Argument Mining Based on Sequential Multi-Task Learning  &nbsp; &nbsp;[paper|code]
+- VivesDebate-Speech: A Corpus of Spoken Argumentation to Leverage Audio Features for Argument Mining &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2302.12584.pdf)|code]
 ### Argument Assessment
 - A large-scale dataset for argument quality ranking: Construction and analysis &nbsp; &nbsp;[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6285/6141)|code]
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
