@@ -31,7 +31,7 @@
 - Intrinsic Quality Assessment of Arguments &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2010.12473.pdf)|[code](http://arguana.com/software)]
 - Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2101.10250.pdf)|[code](https://github.com/GabriellaSky/claimrev)]
 - Assessing the Sufficiency of Arguments through Conclusion Generation  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2110.13495.pdf)|code]
-- Claim Optimization in Computational Argumentation  &nbsp; &nbsp;[[paper]([https://arxiv.org/pdf/2101.10250.pdf](https://arxiv.org/pdf/2212.08913.pdf))|[code](https://github.com/GabriellaSky/claim_optimization)]
+- Claim Optimization in Computational Argumentation  &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2212.08913.pdf)|[code](https://github.com/GabriellaSky/claim_optimization)]
 ### Argument Generation 
 - Aspect-Controlled Neural Argument Generation &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2005.00084.pdf)|[code](https://github.com/UKPLab/controlled-argument-generation)]
 - From arguments to key points: Towards automatic argument summarization &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2005.01619.pdf)|code]
