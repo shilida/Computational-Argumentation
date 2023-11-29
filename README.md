@@ -53,6 +53,7 @@
 - Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension &nbsp; &nbsp;[[paper](https://aclanthology.org/2022.acl-short.4.pdf)|[code](https://github.com/HLT-HITSZ/MRC_APE)]
 - APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning &nbsp; &nbsp;[[paper](https://aclanthology.org/2020.emnlp-main.569.pdf)|[code](https://github.com/LiyingCheng95/ArgumentPairExtraction)]
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph &nbsp; &nbsp;[[paper](https://aclanthology.org/2021.emnlp-main.319.pdf)|[code](https://github.com/HLT-HITSZ/MGF)]
+- Probing Graph Decomposition for Argument Pair Extraction &nbsp; &nbsp;[[paper](https://aclanthology.org/2023.findings-acl.827.pdf)|[code](https://github.com/syiswell/PIGEON)]
 <!-- - AMPERSAND: Argument Mining for PERSuAsive oNline Discussions &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/2004.14677)|[code](https://github.com/tuhinjubcse/AMPERSANDEMNLP2019)] -->
 <!-- Argument mining Extracting arguments from online dialogue &nbsp; &nbsp;[[paper](https://arxiv.org/pdf/1704.06104.pdf)|code] -->
 ## Dataset 
